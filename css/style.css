@@ -1,0 +1,172 @@
+/* CSS Document */
+
+#clear {
+font-size:1px;
+height:1px;
+}
+
+#container img {
+border:0;
+}
+
+#emailphone_footer {
+margin-top:-81px;
+padding:0 0 0 16px;
+text-align:left;
+}
+
+#emailphone_sublogo {
+margin-top:-281px;
+padding:16px 16px 240px 0;
+text-align:right;
+}
+
+#footer {
+margin:0 auto;
+text-align:center;
+}
+
+#links,.section_graphic {
+clear:both;
+}
+
+.column_half {
+float:left;
+width:50%;
+}
+
+.concertsyear {
+background-color:#F5B87A;
+color:#D30E0E;
+font-size:large;
+font-weight:700;
+margin-left:-28px;
+padding:4px;
+}
+
+.ofnote {
+background-color:#FFF;
+clear:both;
+font-size:0.9em;
+margin:0 auto;
+min-width:300px;
+padding:8px;
+width:64%;
+}
+
+.ofnotebottom {
+background-image:url(/images/boxlinehorizontal.gif);
+background-position:right bottom;
+background-repeat:no-repeat;
+}
+
+.ofnotecontent {
+margin-left:24px;
+padding:0 16px 16px;
+}
+
+.ofnotecontent .concert {
+margin:0 0 8px;
+text-indent:-24px;
+}
+
+.ofnoteleft {
+background-image:url(/images/boxlinevertical.gif);
+background-position:left top;
+background-repeat:no-repeat;
+}
+
+.ofnoteright {
+background-image:url(/images/boxlinevertical.gif);
+background-position:right bottom;
+background-repeat:no-repeat;
+}
+
+.ofnotetop {
+background-image:url(/images/boxlinehorizontal.gif);
+background-position:left top;
+background-repeat:no-repeat;
+}
+
+.pendingdates {
+color:silver;
+float:right;
+font-size:.7em;
+font-weight:500;
+}
+
+.thumb {
+background-image:url(/images/picbkg.png);
+background-position:center center;
+background-repeat:no-repeat;
+float:left;
+margin:-8px 8px 0 0;
+padding:12px;
+}
+
+.thumb1 {
+background-image:url(/images/picbkg1.png);
+background-position:center center;
+background-repeat:no-repeat;
+float:right;
+margin:-8px 0 0 8px;
+padding:12px;
+}
+
+.video .ofnote {
+width:496px;
+}
+
+.video .ofnotecontent {
+font-size:1.1em;
+font-weight:700;
+margin:0 auto;
+padding:8px 8px 8px 16px;
+text-align:left;
+}
+
+a:hover {
+text-decoration:underline;
+}
+
+a:link,a:visited,a:active {
+text-decoration:none;
+}
+
+body {
+background-color:#FFF;
+color:#063;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+h3 {
+background-image:url(/images/circles.gif);
+background-repeat:no-repeat;
+clear:both;
+padding:8px 8px 24px 54px;
+}
+
+h4 {
+background-image:url(/images/circles.gif);
+background-repeat:no-repeat;
+clear:both;
+font-size:x-small;
+padding:8px 0 24px 54px;
+}
+
+h4:first-letter {
+float:left;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:300%;
+}
+
+p:first-letter {
+float:left;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:300%;
+margin-top:-4px;
+}
+
+ul {
+font-size:x-small;
+}
